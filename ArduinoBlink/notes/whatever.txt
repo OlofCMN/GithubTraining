@@ -1,0 +1,37 @@
+
+printf("Iteration %i has a value of %ii derived from %f \n"), intValue, longValue, floatValue );
+
+"How to Install and Configure Git and GitHub on Ubuntu (Linux)"
+https://www.youtube.com/watch?v=bc3_FL9zWWs
+
+
+Create a new repository on the command line
+echo "# GithubTraining" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/OlofCMN/GithubTraining.git
+git push -u origin main
+
+Push an existing repository from the command line
+git remote add origin https://github.com/OlofCMN/GithubTraining.git
+git branch -M main
+git push -u origin main
+
+Clone repository
+git clone https://github.com/OlofCMN/GithubTraining.git
+
+git add
+git commit -m "My comments"
+
+git remote set-url origin https//ghg_tokenstring@github.com/OlofCMN/GithubTraining
+git push origin main
+
+git remote set-url origin https//ghg_tokenstring@github.com/OlofCMN/GithubTraining
+
+
+
+
+Visual Studio Code on Linux - Installation
+https://code.visualstudio.com/docs/setup/linux#_rhel-fedora-and-centos-based-distributions
